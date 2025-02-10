@@ -12,3 +12,7 @@ func main(){
 	*p = 100
 	fmt.Println("Nouvelle valeur de x:", x )
 }
+
+// Pointers are variables that holds the memory address of annother variables
+
+// In Go we declare variable susing & and access variables values using * 
